@@ -5,9 +5,9 @@
 - <b>MIPS</b>
   - [Averages](https://github.com/AmmielJ/Averages-in-MIPS)
 - <b>C++/C (Applications)</b>
-  - [Microsoft Paint Clone(C++)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Microsoft Paint Clone(C++)](https://github.com/AmmielJ/Paint-Clone-)
   - [Travel App(C++)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Word Search Puzzle(C)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Word Search Puzzle(C)](https://github.com/AmmielJ/Word-Search-Puzzle)
 
 
 <h2> 🤳 Connect with me:</h2>
