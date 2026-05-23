@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>MIPS</b>
-  - [Averages](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Averages](https://github.com/AmmielJ/Averages-in-MIPS)
 - <b>C++/C (Applications)</b>
   - [Microsoft Paint Clone(C++)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Travel App(C++)](https://github.com/joshmadakor1/EncrypterPOC)
