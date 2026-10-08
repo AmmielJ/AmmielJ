@@ -21,7 +21,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/jenkinsammielprofile
+[linkedin]:www.linkedin.com/in/jenkinsammielprofile
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
